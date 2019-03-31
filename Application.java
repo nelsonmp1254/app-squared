@@ -1,3 +1,4 @@
+import java.awt.Graphics;
 import java.awt.Image;
 import java.util.ArrayList;
 
@@ -47,7 +48,46 @@ public class Application {
 		return "Application [ appID : " + appID + ", name : " + name + ", developer : " + developer + ", pending : " + pending
 				+ ", screenshots : " + screenshots + ", versions : " + versions + ", genres : " + genres + ", specifications : "
 				+ specifications + ", ratings : " + ratings + "]";
+	
 		
+		
+	}
+	
+	
+	public int compareTo(Application a) {
+		if(this.name.equals(a.getName()))
+			return 0; 
+		else if(this.name.compareTo(a.getName()) > 1)
+			return 1;
+		else 
+			return -1; 
+	}
+	
+	
+	public void draw(Graphics g, String sT, String ss, int x, int y) {
+		
+		if(sT.equalsIgnoreCase("name")) {
+			if(this.name.contains(ss)) {
+				g.drawString(this.toString(), x, y);
+			}
+		}
+		else
+			if(sT.equalsIgnoreCase("developer")) {
+				if(this.developer.contains(ss)) {
+					g.drawString(this.toString(), x, y);
+				}
+			}
+			else
+				if(sT.equalsIgnoreCase("genre")) {
+					if(this.genres.contains(ss) ) {
+						g.drawString(this.toString(), x, y);
+					}
+				}
+				else {
+					g.drawString(this.toString(), x, y);
+				}
+
+		//g.drawString(this.toString(), x, y);
 		
 	}
 
