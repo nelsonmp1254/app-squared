@@ -18,6 +18,33 @@ public class Catalog {
 		}
 	}
 
+	public String stringDisplay(String type, String s) {
+		String ret = ""; 
+		for(Application a : this.applications) {
+			if(type.equalsIgnoreCase("name")) {
+				if(a.name.toLowerCase().contains(s.toLowerCase())) {
+					ret += a.name + "    " + a.developer + "     " + a.genres.get(0) + "\n";
+				}
+			}
+			else
+				if(type.equalsIgnoreCase("developer")) {
+					if(a.developer.toLowerCase().contains(s.toLowerCase())) {
+						ret += a.name + "    " + a.developer + "     " + a.genres.get(0) + "\n";
+					}
+				}
+				else
+					if(type.equalsIgnoreCase("genre")) {
+						if(a.genres.get(0).toLowerCase().contains(s.toLowerCase()) ) {
+							ret += a.name + "    " + a.developer + "     " + a.genres.get(0) + "\n";
+						}
+					}
+					else if (type.equalsIgnoreCase("")) {
+						ret += a.name + "    " + a.developer + "     " + a.genres.get(0) + "\n";
+					}
+		}
+		
+		return ret;
+	}
 
 
 	public boolean addApp(Application a) {
@@ -38,7 +65,7 @@ public class Catalog {
 			applications.add(a); 
 			return true;
 		}
-		
+
 		return false;
 	}
 

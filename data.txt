@@ -1,0 +1,101 @@
+appID	name	developer	pending	genre	ratings	link
+1	Andalax	Schumm LLC	false	Drama Thriller	8	1
+2	Sonsing	King-Willms	true	Comedy	8	1
+3	Treeflex	Sauer, Keebler and Franecki	true	Comedy Musical Romance	8	10
+4	Transcof	Larson-Boyer	true	Comedy Horror	10	10
+5	Zaam-Dox	Nader-Nader	true	Drama Fantasy Mystery	4	7
+6	Daltfresh	Nicolas, Osinski and Greenholt	false	Crime Drama	7	4
+7	Sub-Ex	Hayes-Hegmann	true	Crime Drama	10	3
+8	Transcof	Dicki-Kirlin	false	Crime Drama Mystery Thriller	8	4
+9	Biodex	Nolan, Brakus and Russel	false	Adventure Crime Horror	1	2
+10	Tempsoft	Fisher, Kerluke and Halvorson	true	Drama	4	5
+11	Home Ing	Volkman LLC	false	Action Drama Thriller	8	2
+12	Lotstring	Grimes LLC	true	Drama	8	1
+13	Asoka	Powlowski-Goyette	true	Documentary	3	10
+14	Span	Fay-Bailey	false	Documentary Drama	10	9
+15	Zamit	Torp-Halvorson	true	Drama Fantasy	9	3
+16	Tin	Moen-Funk	true	Mystery Thriller	3	3
+17	Tresom	Homenick and Sons	true	Comedy Drama	1	10
+18	Domainer	Cummings LLC	true	Comedy Thriller	10	8
+19	Zathin	Lehner-Terry	false	Animation	2	7
+20	Voyatouch	O'Conner, Bogan and Harber	true	Comedy Drama	4	5
+21	Ventosanzap	Bradtke-Spencer	true	Sci-Fi Thriller	5	10
+22	Tres-Zap	Bins, Green and Hettinger	false	Drama	4	6
+23	Tres-Zap	Kunze Inc	true	(no genres listed)	8	9
+24	Biodex	Rowe Group	false	Comedy	10	1
+25	Alpha	Hand-Schiller	true	Comedy	1	9
+26	Alpha	Hegmann, Windler and Wisoky	true	Crime Drama Horror Thriller	2	3
+27	Zoolab	Tromp-Renner	true	Adventure Children Drama	5	2
+28	Mat Lam Tam	Bosco-Quitzon	false	Drama Romance Western	8	3
+29	Cardify	Kris-Stark	true	Drama Romance	3	1
+30	Job	Towne-Wolff	false	Adventure Children	4	1
+31	Veribet	Windler LLC	false	Comedy Fantasy Romance	10	4
+32	Subin	Hickle Group	true	Action Adventure Crime Thriller	7	6
+33	Treeflex	Upton Inc	true	Drama Romance Thriller	6	6
+34	Job	Schaefer LLC	true	Crime Drama Thriller	7	9
+35	Stronghold	Schuster, Kuhn and Schaefer	false	Adventure Crime Drama Thriller	4	6
+36	Pannier	Rempel-Bechtelar	false	Horror Mystery	8	3
+37	Cardify	Cole, O'Hara and Walker	true	Horror Thriller	7	3
+38	Zathin	Botsford Group	true	Comedy	2	1
+39	Overhold	Runolfsdottir, Batz and Walter	false	Drama	10	3
+40	Gembucket	Gleason-Durgan	true	Comedy	4	2
+41	Trippledex	Marquardt LLC	true	Drama	1	4
+42	Cardify	Jones, Nienow and Schowalter	false	Action Drama	1	9
+43	Voyatouch	Lakin, Volkman and Ward	false	Drama Romance	10	9
+44	Hatity	Beer Inc	false	Adventure Animation Fantasy Romance	8	1
+45	Daltfresh	Volkman, Cassin and Feest	true	Drama Romance	10	1
+46	Sonsing	Lind, Weissnat and Rogahn	false	Documentary	8	7
+47	Flowdesk	Padberg and Sons	false	Animation Children Comedy Romance	3	1
+48	Zontrax	Gutkowski LLC	false	Horror	7	4
+49	Y-Solowarm	Mann-Gutkowski	false	Comedy	9	10
+50	Temp	Beier-Mante	false	Action Mystery Thriller	1	4
+51	Tresom	Ferry-Bednar	false	Comedy Crime	1	4
+52	Fix San	Pagac LLC	true	Drama	10	8
+53	Kanlam	Bradtke, Swaniawski and Jakubowski	true	Comedy Drama Sci-Fi	4	4
+54	Holdlamis	Hoppe-Smith	true	Action Drama	7	6
+55	Overhold	Fadel Group	false	Documentary Musical	10	1
+56	Stringtough	Bergstrom LLC	false	Drama	4	9
+57	Cookley	Moore, Cormier and Wisozk	true	Crime Mystery Thriller	3	3
+58	Zaam-Dox	Vandervort, Kunze and Johnson	false	Documentary	6	8
+59	Domainer	Schuster-Yost	true	Comedy	8	2
+60	Tempsoft	Zieme-Jakubowski	false	Drama	5	9
+61	Andalax	Weissnat, Abernathy and Abernathy	false	Comedy	3	3
+62	Vagram	Tillman-Sanford	true	Documentary	4	10
+63	Bamity	Gutkowski-Ebert	false	Comedy Drama	6	8
+64	Viva	Abshire Inc	true	Animation Documentary	9	2
+65	Viva	Zieme-Botsford	false	Drama	7	4
+66	Zaam-Dox	O'Hara, Fritsch and Sipes	true	Horror	10	6
+67	Lotstring	Welch-Tremblay	true	Documentary	2	9
+68	Ronstring	Kutch-Anderson	false	Thriller	10	10
+69	Quo Lux	Parker, Bruen and Hudson	true	Drama Film-Noir Mystery	5	10
+70	Cookley	Ratke Inc	true	Comedy Romance	9	8
+71	Konklab	Stracke, Dooley and Wisoky	false	Action Comedy Crime Romance	9	9
+72	Y-find	Armstrong and Sons	true	Drama	6	9
+73	Alphazap	Romaguera, Gerhold and Schinner	false	Comedy	6	5
+74	Bitchip	Nienow, Luettgen and Cremin	false	Drama	8	10
+75	Holdlamis	Rau-Schuppe	true	Action Thriller	7	7
+76	Hatity	Parker-Beahan	true	Comedy Drama	1	9
+77	Cardguard	Yost-Ernser	true	Documentary	6	6
+78	Redhold	Klein Inc	true	Adventure Drama Film-Noir Thriller	5	3
+79	Zamit	Glover, Pollich and McGlynn	false	Children Comedy	2	6
+80	Flexidy	Hessel-Bayer	false	Drama	4	10
+81	Bamity	Weissnat, Gislason and Murazik	false	Comedy Drama Romance	3	5
+82	Konklux	Mraz-Witting	true	Comedy Documentary	4	3
+83	Trippledex	Rutherford Inc	false	Drama Mystery Sci-Fi	8	2
+84	Lotlux	Haag, Kuphal and Prosacco	false	Drama	10	8
+85	Zoolab	Green-Barton	false	Horror	9	9
+86	Cardify	Bahringer, Witting and Greenfelder	false	Drama	5	7
+87	Holdlamis	Kovacek-Trantow	false	Horror	2	3
+88	Zontrax	Wolff LLC	false	Action Mystery Thriller	9	1
+89	Bitchip	Welch, Feest and Lynch	true	Action Comedy Romance	1	3
+90	Duobam	Brakus-Murray	false	Action Crime Drama	1	8
+91	Rank	Kozey-Kilback	true	Horror Thriller	4	3
+92	Y-find	Mayer-Corkery	true	Romance Thriller	8	2
+93	Viva	Thompson-Kozey	false	Comedy Sci-Fi	1	10
+94	Konklux	Orn, Deckow and Steuber	true	Comedy Drama	2	8
+95	Voltsillam	Bode Inc	true	Comedy Drama Romance	5	5
+96	Sonsing	Nicolas LLC	true	Drama	4	3
+97	Tampflex	Weber, Schultz and Fritsch	false	Drama Western	2	5
+98	Konklux	Reichert LLC	false	Action Horror Thriller	8	7
+99	Tres-Zap	Bartoletti, Bradtke and Brown	true	Horror	7	9
+100	Span	Senger, Hessel and Leannon	false	Action Sci-Fi Thriller	6	7
